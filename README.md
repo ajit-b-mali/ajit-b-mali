@@ -25,8 +25,9 @@ I am a final-year MCA student at PES Modern College of Engineering, Pune. I spec
 
 ### 📊 GitHub Activity
 
-![Ajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajit-b-mali&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajit-b-mali&layout=compact&theme=transparent)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ajit-b-mali&theme=dark&hide_border=false" alt="Ajit's GitHub Streak" />
+</p>
 
 ---
 
