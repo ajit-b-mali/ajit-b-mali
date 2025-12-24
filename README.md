@@ -8,13 +8,18 @@ I am a final-year MCA student at PES Modern College of Engineering, Pune. I spec
 
 ### 🚀 Technical Arsenal
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 | Category | Skills |
 | :--- | :--- |
-| **Backend** | PHP (Core, PDO), Node.js, Express.js, SOAP & RESTful APIs |
-| **Frontend** | React, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3 |
+| **Backend** | PHP (Core, PDO), Node.js, SOAP & RESTful APIs |
 | **Databases** | MySQL, MongoDB, Database Schema Design |
-| **Tools** | XAMPP/WAMP, Git & GitHub, Postman, VS Code, Regex |
-| **Core** | MVC Architecture, OOP, Data Structures & Algorithms (DSA) |
+| **Tools** | XAMPP, Git & GitHub, Postman, VS Code |
+| **Core** | MVC Architecture, OOP, DSA, DBMS |
 
 ---
 
